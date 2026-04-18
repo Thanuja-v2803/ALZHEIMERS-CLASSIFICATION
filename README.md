@@ -54,3 +54,23 @@ The dataset consists of brain MRI images categorized into:
 ## 🚀 How to Run
 ```bash
 pip install -r requirements.txt
+## 📷 Output
+
+### 🔸 Model Accuracy
+The model achieved an accuracy of *91%* on the test dataset.
+
+![Accuracy](accuracy.png.png)
+
+---
+
+### 🔸 Confusion Matrix
+The confusion matrix shows the performance of the classification model across all classes.
+
+![Confusion Matrix](confusion_matrix.png.png)
+
+---
+
+### 🔸 Pie Chart
+The pie chart represents the distribution of predicted classes.
+
+![Pie Chart](pie_chart.png.png)
